@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header-container {
+    width: 1440px;
+    height: 652px;
+    margin: 0 auto;
+    border: 2px solid red;
+    background-image: url('../assets/Hero-bg.png');
+    background-position: center;
+    background-size: cover;
+
+}
+
+.header-content {
+    width: 998px;
+    height: 582px;
+    border: 2px solid red;
+    margin-top: 26px;
+    margin-right: 221px;
+    margin-bottom: 44px;
+    margin-left: 221px;
+
+}
+
+.header-content img {
+    width: 240.28px;
+    height: 240px;
+    margin-left: 378.86px;
+    margin-right: 378.86px;
+    margin-bottom: 32px;
+}
+
+.header-content h3 {
+    width: 998px;
+    height: 136px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 68px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.header-content p {
+    width: 852px;
+    height: 52px;
+    opacity: 0.7;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-left: 73px;
+    margin-bottom: 32px;
+
+}
+
+.header-content button {
+    width: 208px;
+    height: 66px;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-left: 419px;
+    margin-right: 419px;
+}
+
+/* Why Web Development? starts here */
+.WhyWeb-container {
+    width: 1140px;
+    height: 1393px;
+    border: 2px solid red;
+    margin-top: 74px;
+    margin-right: 152px;
+    margin-bottom: 90px;
+    margin-left: 138px;
+}
+
+.whyweb-content {
+    width: 946px;
+    height: 1233px;
+    border: 2px solid red;
+    margin: 80px 97px;
+}
