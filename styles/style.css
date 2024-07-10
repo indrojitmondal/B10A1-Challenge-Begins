@@ -462,6 +462,7 @@ height: 313px;
  background-size: cover;
  background-color: rgba(0, 0, 0, 0.1);
  background-blend-mode: overlay;
+ margin-bottom: 80px;
 }
 .support-section-content{
     width: 1044px;
@@ -518,4 +519,24 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 
+}
+.footer-container{
+    width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+    /* border: 2px solid red; */
+}
+.footer-content{
+    width: 1140px;
+height: 36px;
+margin: 0 auto;
+/* border: 2px solid red; */
+}
+.iconContainerOf-footerContent{
+    display: flex;
+    gap:10px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
 }
