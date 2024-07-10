@@ -83,10 +83,10 @@
 /* Why Web Development? starts here */
 .WhyWeb-container {
     width: 1140px;
-    height: 1393px;
+    height: 1180x;
     /* border: 2px solid red; */
     margin: 0 auto;
-    /* margin-bottom: 90px; */
+   
 }
 
 .whyweb-content {
@@ -243,9 +243,8 @@
 
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 
 }
 
