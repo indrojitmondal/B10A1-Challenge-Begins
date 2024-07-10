@@ -318,11 +318,12 @@ a {
     padding: 40px;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap:10px;
 }
 .skill-content> img{
     width: 56px;
-height: 56px;
+    height: 56px;
 }
 
 .skill-content> h3{
@@ -332,7 +333,7 @@ height: 36px;
 .skill-content > p{
     width: 284px;
     height: 52px;
-    text-align: center;
+    text-align: left;
 }
 .skill-content a{
     width: 284px;
@@ -538,4 +539,9 @@ margin: 0 auto;
 .footer-content{
     display: flex;
     justify-content: space-between;
+}
+.about-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
